@@ -124,27 +124,5 @@ Please follow the [contributing guidelines](./CONTRIBUTING.md).
 
 MIT License — Free to use, modify, and distribute.
 
-## 🙏 Credits
-
-Created by [Your Name]  
-Senior Product Designer building in public
-
-## 📬 Connect
-
-- 🌐 Website: [yourdomain.com]
-- 🐦 Twitter/X: [@yourhandle]
-- 💼 LinkedIn: [yourprofile]
-- 📧 Email: [your@email.com]
-
-## ⭐ Show Your Support
-
-If this library helps your design process:
-
-- ⭐ Star this repository
-- 🐦 Share on Twitter/X
-- 💬 Tell other designers
-- 🤝 Contribute improvements
-
----
 
 **Made with ❤️ for product designers building better products**

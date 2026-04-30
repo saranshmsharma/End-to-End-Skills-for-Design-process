@@ -131,10 +131,9 @@ Senior Product Designer building in public
 
 ## 📬 Connect
 
-- 🌐 Website: [yourdomain.com]
-- 🐦 Twitter/X: [@yourhandle]
-- 💼 LinkedIn: [yourprofile]
-- 📧 Email: [your@email.com]
+- 🌐 Website: https://www.sransh.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sransh/
+- 📧 Email: Sransh15@gmail.com
 
 ## ⭐ Show Your Support
 

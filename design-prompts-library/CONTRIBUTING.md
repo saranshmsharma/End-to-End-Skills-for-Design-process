@@ -154,7 +154,7 @@ Please don't submit:
 
 - Open an issue for discussion
 - Tag maintainers for urgent matters
-- Email: [your@email.com]
+- Email: sransh15@gmail.com
 
 ## 🙏 Recognition
 
